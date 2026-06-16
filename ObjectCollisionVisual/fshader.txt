@@ -1,0 +1,13 @@
+#version 330 core 
+
+in vec2 locPos;
+
+out vec4 fragColor;
+
+void main(){
+	fragColor = vec4(1.0f,0.0f,0.5f,1.0f);
+	float distance = locPos.x*locPos.x + locPos.y*locPos.y;
+	if (distance > 0.25){
+		discard;
+	}
+}
