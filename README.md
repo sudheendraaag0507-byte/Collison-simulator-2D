@@ -85,7 +85,10 @@ And yeah, I am onto further optimization, like completely removing the `for` loo
 Updates are upcoming! This is my very first article. Hope you enjoyed this journey!
 
 ---
+## 🚀 Showcases & Links
 
+### 📺 Watch the 5,000 Particle Simulation
+[Click here to watch the simulation video](https://www.linkedin.com/posts/sudheendraa-a-g-515441379_on%C2%B2-on-a-brutal-week-of-optimization-activity-7472674671193149440-fKGj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2AzaEB1BL6FX9iZbrzbT0nj_GvK93nPGo)
 ### 💻 Clone the Repository
 ```bash
 [git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)](https://github.com/sudheendraaag0507-byte/Collison-simulator-2D.git)
