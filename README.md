@@ -85,8 +85,13 @@ And yeah, I am onto further optimization, like completely removing the `for` loo
 Updates are upcoming! This is my very first article. Hope you enjoyed this journey!
 
 ---
-## 🚀 Showcases & Links
+## 🚀 Showcases
 
 ### 📺 Watch the 5,000 Particle Simulation
-[Click here to watch the simulation video](https://www.linkedin.com/posts/sudheendraa-a-g-515441379_on%C2%B2-on-a-brutal-week-of-optimization-activity-7472674671193149440-fKGj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2AzaEB1BL6FX9iZbrzbT0nj_GvK93nPGo)
+
+https://github.com/user-attachments/assets/4c6f942c-68b2-492a-93dd-bd4ffbfc7365
+
+https://github.com/user-attachments/assets/9046729b-973a-4215-b7e9-0aa817b9179d
+
+https://github.com/user-attachments/assets/fed266cb-b734-48fa-bac5-68f6fa501e54
 
